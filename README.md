@@ -1,4 +1,4 @@
-# Projetos Trybe
+# Trybe Projects
 
 This repository contains all the learning projects developed by <a href="https://github.com/samantabelow">Samanta Below</a> while studying at <a href="https://www.betrybe.com/">Trybe</a>.
 
