@@ -144,96 +144,96 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 20: Introduction to SQL
 
-- [ ] **20.1**| :arrow_right: Banco de dados SQL
-- [ ] **20.2**| :arrow_right: Encontrando dados em um banco de dados
-- [ ] **20.3**| :arrow_right: Filtrando dados de forma específica
-- [ ] **20.4**| :arrow_right: Manipulando tabelas
-- [ ] **20.5**| :arrow_right: Projeto: All For One
+- [ ] **20.1** Banco de dados SQL
+- [ ] **20.2** Encontrando dados em um banco de dados
+- [ ] **20.3** Filtrando dados de forma específica
+- [ ] **20.4** Manipulando tabelas
+- [ ] **20.5** Projeto: All For One
 
 ### Block 21: SQL Functions, JOINs and Subqueries
 
-- [ ] **21.1**| :arrow_right: Funções mais usadas no SQL
-- [ ] **21.2**| :arrow_right: Descomplicando JOINs, UNIONs e Subqueries
-- [ ] **21.3**| :arrow_right: Stored Routines & Stored Functions
-- [ ] **21.4**| :arrow_right: Projeto: Vocabulary Booster
+- [ ] **21.1** Funções mais usadas no SQL
+- [ ] **21.2** Descomplicando JOINs, UNIONs e Subqueries
+- [ ] **21.3** Stored Routines & Stored Functions
+- [ ] **21.4** Projeto: Vocabulary Booster
 
 ### Block 22: Data base
 
-- [ ] **22.1**| :arrow_right: Transformando ideias em um modelo de banco de dados
-- [ ] **22.2**| :arrow_right: Normalização, Formas Normais e Dumps
-- [ ] **22.3**| :arrow_right: Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] **22.4**| :arrow_right: Projeto: One For All
+- [ ] **22.1** Transformando ideias em um modelo de banco de dados
+- [ ] **22.2** Normalização, Formas Normais e Dumps
+- [ ] **22.3** Transformando ideias em um modelo de banco de dados - Parte 2
+- [ ] **22.4** Projeto: One For All
 
 ### Block 23: Introduction to MongoDB
 
-- [ ] **23.1**| :arrow_right: Introdução - NoSQL
-- [ ] **23.2**| :arrow_right: Introdução - MongoDB
-- [ ] **23.3**| :arrow_right: Filter Operators
-- [ ] **23.4**| :arrow_right: Projeto: Data Flights
+- [ ] **23.1** Introdução - NoSQL
+- [ ] **23.2** Introdução - MongoDB
+- [ ] **23.3** Filter Operators
+- [ ] **23.4** Projeto: Data Flights
 
 ### Block 24: MongoDB: Simple and Complex Updates
 
-- [ ] **24.1**| :arrow_right: Updates Simples
-- [ ] **24.2**| :arrow_right: Updates Complexos - Arrays - Parte 1
-- [ ] **24.3**| :arrow_right: Updates Complexos - Arrays - Parte 2
-- [ ] **24.4**| :arrow_right: Projeto: Commerce
+- [ ] **24.1** Updates Simples
+- [ ] **24.2** Updates Complexos - Arrays - Parte 1
+- [ ] **24.3** Updates Complexos - Arrays - Parte 2
+- [ ] **24.4** Projeto: Commerce
 
 ### Block 25: Aggregation Framework
 
-- [ ] **25.1**| :arrow_right: Aggregation Framework - Part 1
-- [ ] **25.2**| :arrow_right: Aggregation Framework - Part 2
-- [ ] **25.3**| :arrow_right: Projeto: Aggregations
+- [ ] **25.1** Aggregation Framework - Part 1
+- [ ] **25.2** Aggregation Framework - Part 2
+- [ ] **25.3** Projeto: Aggregations
 
 ### Block 26: Introduction to web development using NodeJS
 
-- [ ] **26.1**| :arrow_right: Introdução - NodeJS
-- [ ] **26.2**| :arrow_right: NodeJS - Fluxo Assíncrono
-- [ ] **26.3**| :arrow_right: NodeJS - Arquitetura
-- [ ] **26.4**| :arrow_right: Express HTTP com Node.js
-- [ ] **26.5**| :arrow_right: Práticando Express
-- [ ] **26.6**| :arrow_right: Projeto: Crush Manager
+- [ ] **26.1** Introdução - NodeJS
+- [ ] **26.2** NodeJS - Fluxo Assíncrono
+- [ ] **26.3** NodeJS - Arquitetura
+- [ ] **26.4** Express HTTP com Node.js
+- [ ] **26.5** Práticando Express
+- [ ] **26.6** Projeto: Crush Manager
 
 ### Block 27: NodeJS
 
-- [ ] **27.1**| :arrow_right: Arquitetura de Software: Camada de Model
-- [ ] **27.2**| :arrow_right: Arquitetura de Software - Camada de Controller e Service
-- [ ] **27.3**| :arrow_right: Arquitetura web - Rest e Restful
-- [ ] **27.4**| :arrow_right: Projeto: Store Manager
+- [ ] **27.1** Arquitetura de Software: Camada de Model
+- [ ] **27.2** Arquitetura de Software - Camada de Controller e Service
+- [ ] **27.3** Arquitetura web - Rest e Restful
+- [ ] **27.4** Projeto: Store Manager
 
 ### Block 28: Authentication and File Upload
 
-- [ ] **28.1**| :arrow_right: NodeJS - JWT - (JSON Web Token)
-- [ ] **28.2**| :arrow_right: NodeJS - Upload de arquivos com Multer
-- [ ] **28.3**| :arrow_right: Projeto: Cookmaster
+- [ ] **28.1** NodeJS - JWT - (JSON Web Token)
+- [ ] **28.2** NodeJS - Upload de arquivos com Multer
+- [ ] **28.3** Projeto: Cookmaster
 
 ### Block 29: Deployment
 
-- [ ] **29.1**| :arrow_right: Infraestrutura - Deploy com Heroku
-- [ ] **29.2**| :arrow_right: Deploy - Gerenciadores de Processos
-- [ ] **29.3**| :arrow_right: Projeto: Stranger Things
+- [ ] **29.1** Infraestrutura - Deploy com Heroku
+- [ ] **29.2** Deploy - Gerenciadores de Processos
+- [ ] **29.3** Projeto: Stranger Things
 
 ### Block 30: Trybeer
 
-- [ ] **30.1**| :arrow_right: Projeto: Trybeer
+- [ ] **30.1** Projeto: Trybeer
 
 ### Block 31: Arquitecture: SOLID and ORM
 
-- [ ] **31.1**| :arrow_right: Arquitetura - Princípios SOLID
-- [ ] **31.2**| :arrow_right: ORM - Interface da aplicação com o banco de dados
-- [ ] **31.3**| :arrow_right: ORM - Associations
-- [ ] **31.4**| :arrow_right: Boas práticas na escrita de testes
-- [ ] **31.5**| :arrow_right: Projeto: API de Blogs
+- [ ] **31.1** Arquitetura - Princípios SOLID
+- [ ] **31.2** ORM - Interface da aplicação com o banco de dados
+- [ ] **31.3** ORM - Associations
+- [ ] **31.4** Boas práticas na escrita de testes
+- [ ] **31.5** Projeto: API de Blogs
 
 ### Block 32: Sockets
 
-- [ ] **32.1**| :arrow_right: Sockets - TCP/UDP & NET
-- [ ] **32.2**| :arrow_right: Sockets - Socket.io
-- [ ] **32.3**| :arrow_right: Arquitetura de Software - Camada de View
-- [ ] **32.4**| :arrow_right: Projeto: Webchat
+- [ ] **32.1** Sockets - TCP/UDP & NET
+- [ ] **32.2** Sockets - Socket.io
+- [ ] **32.3** Arquitetura de Software - Camada de View
+- [ ] **32.4** Projeto: Webchat
 
 ### Block 33: Trybeer V2
 
-- [ ] **33.1**| :arrow_right: Projeto: Trybeer V2
+- [ ] **33.1** Projeto: Trybeer V2
 <div align="center">
 
 ## Computer Science
@@ -241,47 +241,47 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 34: Computer Architecture
 
-- [ ] **34.1**| :arrow_right: Arquitetura de Computadores
-- [ ] **34.2**| :arrow_right: Arquitetura de redes
-- [ ] **34.3**| :arrow_right: Redes de computadores, ferramentas e segurança
-- [ ] **34.4**| :arrow_right: Projeto: Explorando os protocolos
+- [ ] **34.1** Arquitetura de Computadores
+- [ ] **34.2** Arquitetura de redes
+- [ ] **34.3** Redes de computadores, ferramentas e segurança
+- [ ] **34.4** Projeto: Explorando os protocolos
 
 ### Block 35: Introduction to Python
 
-- [ ] **35.1**: :arrow_right: Aprendendo Python
-- [ ] **35.2**: :arrow_right: Entrada e Saída de dados
-- [ ] **35.3**: :arrow_right: Raspagem de dados
-- [ ] **35.4**: :arrow_right: Testes
-- [ ] **35.5**: :arrow_right: Projeto: Tech news
+- [ ] **35.1** Aprendendo Python
+- [ ] **35.2** Entrada e Saída de dados
+- [ ] **35.3** Raspagem de dados
+- [ ] **35.4** Testes
+- [ ] **35.5** Projeto: Tech news
 
 ### Block 36: Object Oriented Programming
 
-- [ ] **36.1**| :arrow_right: Introdução à programação orientada a objetos
-- [ ] **36.2**| :arrow_right: Programação orientada a objetos na prática
-- [ ] **36.3**| :arrow_right: Padrões de projeto
-- [ ] **36.4**| :arrow_right: Projeto: Relatórios de Estoque
+- [ ] **36.1** Introdução à programação orientada a objetos
+- [ ] **36.2** Programação orientada a objetos na prática
+- [ ] **36.3** Padrões de projeto
+- [ ] **36.4** Projeto: Relatórios de Estoque
 
 ### Block 37: Algorithms and Data Structure
 
-- [ ] **37.1**| :arrow_right: Estrutura de dados I - Arrays
-- [ ] **37.2**| :arrow_right: Estrutura de dados I - Complexidade de Algoritmos
-- [ ] **37.3**| :arrow_right: Recursividade e Estratégias para solução de problemas
-- [ ] **37.4**| :arrow_right: Algoritmos de ordenação e busca
-- [ ] **37.5**| :arrow_right: Projeto: Algoritmos
+- [ ] **37.1** Estrutura de dados I - Arrays
+- [ ] **37.2** Estrutura de dados I - Complexidade de Algoritmos
+- [ ] **37.3** Recursividade e Estratégias para solução de problemas
+- [ ] **37.4** Algoritmos de ordenação e busca
+- [ ] **37.5** Projeto: Algoritmos
 
 ### Block 38: Data Structure: Hash and Set
 
-- [ ] **38.1**| :arrow_right: Estrutura de dados II - Hash maps & Dict
-- [ ] **38.2**| :arrow_right: Estrutura de dados II - Set
-- [ ] **38.3**| :arrow_right: Projeto: Restaurant Orders
+- [ ] **38.1** Estrutura de dados II - Hash maps & Dict
+- [ ] **38.2** Estrutura de dados II - Set
+- [ ] **38.3** Projeto: Restaurant Orders
 
 ### Block 39: Data Structure: Piles, Queues and Lists
 
-- [ ] **39.1**| :arrow_right: Estruturas de dados III - Pilhas
-- [ ] **39.2**| :arrow_right: Estruturas de dados III - Deque
-- [ ] **39.3**| :arrow_right: Estruturas de dados III - Nó & Linhas
-- [ ] **39.4**| :arrow_right: Listas Duplamente Ligadas
-- [ ] **39.5**| :arrow_right: Projeto: TING - Trybe Is Not Google
+- [ ] **39.1** Estruturas de dados III - Pilhas
+- [ ] **39.2** Estruturas de dados III - Deque
+- [ ] **39.3** Estruturas de dados III - Nó & Linhas
+- [ ] **39.4** Listas Duplamente Ligadas
+- [ ] **39.5** Projeto: TING - Trybe Is Not Google
 
 --------------------------------------------------------------------------------
 <div align="center">
