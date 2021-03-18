@@ -144,43 +144,43 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 20: Introduction to SQL
 
-- [ ] **20.1** Banco de dados SQL
-- [ ] **20.2** Encontrando dados em um banco de dados
-- [ ] **20.3** Filtrando dados de forma específica
-- [ ] **20.4** Manipulando tabelas
-- [ ] **20.5** Projeto: All For One
+- [x] **20.1** Banco de dados SQL
+- [x] **20.2** Encontrando dados em um banco de dados
+- [x] **20.3** Filtrando dados de forma específica
+- [x] **20.4** Manipulando tabelas
+- [x] **20.5** Projeto: All For One
 
 ### Block 21: SQL Functions, JOINs and Subqueries
 
-- [ ] **21.1** Funções mais usadas no SQL
-- [ ] **21.2** Descomplicando JOINs, UNIONs e Subqueries
-- [ ] **21.3** Stored Routines & Stored Functions
-- [ ] **21.4** Projeto: Vocabulary Booster
+- [x] **21.1** Funções mais usadas no SQL
+- [x] **21.2** Descomplicando JOINs, UNIONs e Subqueries
+- [x] **21.3** Stored Routines & Stored Functions
+- [x] **21.4** Projeto: Vocabulary Booster
 
 ### Block 22: Data base
 
-- [ ] **22.1** Transformando ideias em um modelo de banco de dados
-- [ ] **22.2** Normalização, Formas Normais e Dumps
-- [ ] **22.3** Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] **22.4** Projeto: One For All
+- [x] **22.1** Transformando ideias em um modelo de banco de dados
+- [x] **22.2** Normalização, Formas Normais e Dumps
+- [x] **22.3** Transformando ideias em um modelo de banco de dados - Parte 2
+- [x] **22.4** Projeto: One For All
 
 ### Block 23: Introduction to MongoDB
 
-- [ ] **23.1** Introdução - NoSQL
-- [ ] **23.2** Introdução - MongoDB
-- [ ] **23.3** Filter Operators
-- [ ] **23.4** Projeto: Data Flights
+- [x] **23.1** Introdução - NoSQL
+- [x] **23.2** Introdução - MongoDB
+- [x] **23.3** Filter Operators
+- [x] **23.4** Projeto: Data Flights
 
 ### Block 24: MongoDB: Simple and Complex Updates
 
-- [ ] **24.1** Updates Simples
-- [ ] **24.2** Updates Complexos - Arrays - Parte 1
-- [ ] **24.3** Updates Complexos - Arrays - Parte 2
-- [ ] **24.4** Projeto: Commerce
+- [x] **24.1** Updates Simples
+- [x] **24.2** Updates Complexos - Arrays - Parte 1
+- [x] **24.3** Updates Complexos - Arrays - Parte 2
+- [x] **24.4** Projeto: Commerce
 
 ### Block 25: Aggregation Framework
 
-- [ ] **25.1** Aggregation Framework - Part 1
+- [x] **25.1** Aggregation Framework - Part 1
 - [ ] **25.2** Aggregation Framework - Part 2
 - [ ] **25.3** Projeto: Aggregations
 
