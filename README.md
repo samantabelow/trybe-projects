@@ -25,7 +25,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **3.2** HTML & CSS - Primeiros passos em CSS
 - [x] **3.3** HTML & CSS - Seletores e posicionamento
 - [x] **3.4** HTML Semântico
-- [x] **3.5** Projeto: Lessons Learned
+- [x] **3.5** Projeto: Lessons Learned <a href="https://github.com/samantabelow/-Trybe-Projeto-Lessons-Learned">Code</a>
 
 ### [Block 4: Introdução - JavaScript e Lógica de programação]
 
