@@ -33,7 +33,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **4.2** JavaScript - Array e loop For
 - [x] **4.3** JavaScript - Lógica de programação e Algoritmos
 - [x] **4.4** JavaScript - Objetos e funções
-- [x] **4.5** Projeto: Playground Functions
+- [x] **4.5** Projeto: Playground Functions - <a href="https://github.com/samantabelow/-Trybe-Projeto-Playground-Functions">Código</a>
 
 ### [Block 5: JavaScript - DOM, Events and Web Storage]
 
