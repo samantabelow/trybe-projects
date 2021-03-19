@@ -42,7 +42,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **5.3** JavaScript - Eventos
 - [x] **5.4** JavaScript - Web Storage
 - [x] **5.5** Projeto: Arte com Pixels
-- [x] **5.6** Projeto: Lista de Tarefas
+- [x] **5.6** Projeto: Lista de Tarefas - <a href="https://github.com/samantabelow/-Trybe-Projeto-To-Do-List">Código</a>
 
 ### Block 6: HTML e CSS: Forms, Flexbox and Responsive
 
