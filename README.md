@@ -59,7 +59,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **7.1** JavaScript ES6 - let, const, arrow functions e template literals
 - [x] **7.2** JavaScript ES6 - Objects
 - [x] **7.3** Testes unitários em JavaScript
-- [x] **7.4** Projeto: JavaScript Testes Unitários
+- [x] **7.4** Projeto: JavaScript Testes Unitários - <a href="https://github.com/samantabelow/-Trybe-Projeto-Javascript-Unit-Tests"><Código></a>
 
 ### [Block 8: Higher Order Functions in JavaScript ES6]
 
