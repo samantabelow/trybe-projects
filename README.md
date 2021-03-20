@@ -52,7 +52,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **6.3** CSS Flexbox - Part 1
 - [x] **6.4** CSS Flexbox - Part 2
 - [x] **6.5** CSS Responsivo - Mobile First
-- [x] **6.5** Projeto: Página inicial do Facebook
+- [x] **6.5** Projeto: Página inicial do Facebook - <a href="https://github.com/samantabelow/-Trybe-Projeto-Facebook-Signup">Código</a>
 
 ### [Block 7: Introduction to JavaScript ES6 and Unit tests]
 
