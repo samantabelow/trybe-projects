@@ -90,7 +90,7 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [x] **11.1** 'Hello, world!' no React!
 - [x] **11.2** Componentes React
-- [x] **11.3** Projeto: Movie Card Library
+- [x] **11.3** Projeto: Movie Card Library - <a href="https://github.com/samantabelow/-Trybe-Projeto-Movie-Card-Library-Stateful"></a>
 
 ### [Block 12: Componenets, Events and Forms on React]
 
