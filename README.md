@@ -114,7 +114,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **15.1** React Testing Library - Primeiros passos
 - [x] **15.2** React Testing Library - Mocks e Inputs
 - [x] **15.3** React Testing Library - Testando React Router
-- [x] **15.4** Projeto: Testes em React - <a href="">Código</a>
+- [x] **15.4** Projeto: Testes em React - <a href="https://github.com/samantabelow/-Trybe-Projeto-React-Testing-Library">Código</a>
 
 ### Block 16: Redux
 
