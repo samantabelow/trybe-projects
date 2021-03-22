@@ -67,7 +67,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **8.2** JavaScript ES6: Higher Order Functions - map e reduce
 - [x] **8.3** JavaScript ES6: reduce
 - [x] **8.4** JavaScript ES6: spread operator, rest parameter, destructuring e mais
-- [x] **8.5** Projeto: Zoo Functions
+- [x] **8.5** Projeto: Zoo Functions - <a href="https://github.com/samantabelow/-Trybe-Projeto-Zoo-Functions">Código</a>
 
 ### [Block 9: Asynchronicity & Promises]
 
