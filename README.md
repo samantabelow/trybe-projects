@@ -80,7 +80,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **10.1** Primeiros passos no Jest
 - [x] **10.2** Jest - Testes Assíncronos
 - [x] **10.3** Jest - Simulando Comportamentos
-- [x] **10.4** Projeto: Jest Assíncrono e Mocking
+- [x] **10.4** Projeto: Jest Assíncrono e Mocking - <a href="https://github.com/samantabelow/-Trybe-Projeto-Jest">Código</a>
 <div align="center">
 
 ## Front-end Development
