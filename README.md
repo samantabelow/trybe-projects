@@ -73,7 +73,7 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [x] **9.1** JavaScript Assíncrono e Callbacks
 - [x] **9.2** JavaScript Promises
-- [x] **9.3** Projeto: Carrinho de Compras
+- [x] **9.3** Projeto: Carrinho de Compras - <a href="https://github.com/samantabelow/-Trybe-Projeto-Shopping-Cart">Código</a>
 
 ### [Block 10: Jest]
 
