@@ -102,18 +102,18 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [x] **13.1** Ciclo de vida de componentes
 - [x] **13.2** React Router
-- [x] **13.3** Projeto: Movie Card Library CRUD 
+- [x] **13.3** Projeto: Movie Card Library CRUD - <a href="https://github.com/samantabelow/-Trybe-Projeto-Movie-Card-Library-Crud">Código</a>
 
 ### Block 14: Agile Methodologies
 
-- [x] **14.1** Metodologias Ágeis
+- [x] **14.1** Metodologias Ágeis - <a href="">Código</a>
 
 ### Block 15: Tests with React Testing Library
 
 - [x] **15.1** React Testing Library - Primeiros passos
 - [x] **15.2** React Testing Library - Mocks e Inputs
 - [x] **15.3** React Testing Library - Testando React Router
-- [x] **15.4** Projeto: Testes em React
+- [x] **15.4** Projeto: Testes em React - <a href="">Código</a>
 
 ### Block 16: Redux
 
@@ -122,22 +122,22 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **16.3** Usando o React no Redux - Prática
 - [x] **16.4** Usando o React no Redux - Actions Assíncronas
 - [x] **16.5** Testes em React-Redux
-- [x] **16.6** Projeto: Trybe Wallet
+- [x] **16.6** Projeto: Trybe Wallet - <a href="">Código</a>
 
 ### Block 17: React Project
 
-- [x] **17.1** Projeto: Jogo de Trivia
+- [x] **17.1** Projeto: Jogo de Trivia - <a href="">Código</a>
 
 ### Block 18: Context API and React Hooks
 
  - [x] **18.1** Context API do React
  - [x] **18-2** React Hooks - useState e useContext
  - [x] **18-3** React Hooks - useEffect e Hooks customizados
- - [x] **18.4** Projeto: StarWars Datatable com Conext API e Hooks
+ - [x] **18.4** Projeto: StarWars Datatable com Conext API e Hooks - <a href="">Código</a>
  
 ### Block 19: Front-end Final Project
 
-- [x] **19-1** Projeto: App de Receitas
+- [x] **19-1** Projeto: App de Receitas - <a href="">Código</a>
 <div align="center">
  
  ## Back-end Development
@@ -149,35 +149,35 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **20.2** Encontrando dados em um banco de dados
 - [x] **20.3** Filtrando dados de forma específica
 - [x] **20.4** Manipulando tabelas
-- [x] **20.5** Projeto: All For One
+- [x] **20.5** Projeto: All For One - <a href="">Código</a>
 
 ### Block 21: SQL Functions, JOINs and Subqueries
 
 - [x] **21.1** Funções mais usadas no SQL
 - [x] **21.2** Descomplicando JOINs, UNIONs e Subqueries
 - [x] **21.3** Stored Routines & Stored Functions
-- [x] **21.4** Projeto: Vocabulary Booster
+- [x] **21.4** Projeto: Vocabulary Booster - <a href="">Código</a>
 
 ### Block 22: Data base
 
 - [x] **22.1** Transformando ideias em um modelo de banco de dados
 - [x] **22.2** Normalização, Formas Normais e Dumps
 - [x] **22.3** Transformando ideias em um modelo de banco de dados - Parte 2
-- [x] **22.4** Projeto: One For All
+- [x] **22.4** Projeto: One For All - <a href="">Código</a>
 
 ### Block 23: Introduction to MongoDB
 
 - [x] **23.1** Introdução - NoSQL
 - [x] **23.2** Introdução - MongoDB
 - [x] **23.3** Filter Operators
-- [x] **23.4** Projeto: Data Flights
+- [x] **23.4** Projeto: Data Flights - <a href="">Código</a>
 
 ### Block 24: MongoDB: Simple and Complex Updates
 
 - [x] **24.1** Updates Simples
 - [x] **24.2** Updates Complexos - Arrays - Parte 1
 - [x] **24.3** Updates Complexos - Arrays - Parte 2
-- [x] **24.4** Projeto: Commerce
+- [x] **24.4** Projeto: Commerce - <a href="">Código</a>
 
 ### Block 25: Aggregation Framework
 
