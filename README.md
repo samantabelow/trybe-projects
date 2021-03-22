@@ -107,7 +107,7 @@ The course takes over 1500 hours and includes introduction to software developme
 ### Block 14: Agile Methodologies
 
 - [x] **14.1** Metodologias Ágeis
-- [x] **14.2** Projeto: Frontend Online Store - <a href="">Código</a>
+- [x] **14.2** Projeto: Frontend Online Store - <a href="https://github.com/samantabelow/-Trybe-Projeto-Frontend-Online-Store">Código</a>
 
 ### Block 15: Tests with React Testing Library
 
