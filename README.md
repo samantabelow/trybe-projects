@@ -127,18 +127,18 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 17: React Project
 
-- [x] **17.1** Projeto: Jogo de Trivia - <a href="">Código</a>
+- [x] **17.1** Projeto: Jogo de Trivia - <a href="https://github.com/samantabelow/-Trybe-Projeto-Jogo-de-Trivia">Código</a>
 
 ### Block 18: Context API and React Hooks
 
  - [x] **18.1** Context API do React
  - [x] **18-2** React Hooks - useState e useContext
  - [x] **18-3** React Hooks - useEffect e Hooks customizados
- - [x] **18.4** Projeto: StarWars Datatable com Conext API e Hooks - <a href="">Código</a>
+ - [x] **18.4** Projeto: StarWars Datatable com Context API e Hooks - <a href="https://github.com/samantabelow/-Trybe-Projeto-StarWars-DataTable">Código</a>
  
 ### Block 19: Front-end Final Project
 
-- [x] **19-1** Projeto: App de Receitas - <a href="">Código</a>
+- [x] **19-1** Projeto: App de Receitas - <a href="https://github.com/samantabelow/-Trybe-Projeto-App-de-Receitas">Código</a>
 <div align="center">
  
  ## Back-end Development
@@ -150,41 +150,41 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **20.2** Encontrando dados em um banco de dados
 - [x] **20.3** Filtrando dados de forma específica
 - [x] **20.4** Manipulando tabelas
-- [x] **20.5** Projeto: All For One - <a href="">Código</a>
+- [x] **20.5** Projeto: All For One - <a href="https://github.com/samantabelow/-Trybe-Projeto-All-For-One">Código</a>
 
 ### Block 21: SQL Functions, JOINs and Subqueries
 
 - [x] **21.1** Funções mais usadas no SQL
 - [x] **21.2** Descomplicando JOINs, UNIONs e Subqueries
 - [x] **21.3** Stored Routines & Stored Functions
-- [x] **21.4** Projeto: Vocabulary Booster - <a href="">Código</a>
+- [x] **21.4** Projeto: Vocabulary Booster - <a href="https://github.com/samantabelow/-Trybe-Projeto-Vocabulary-Booster">Código</a>
 
 ### Block 22: Data base
 
 - [x] **22.1** Transformando ideias em um modelo de banco de dados
 - [x] **22.2** Normalização, Formas Normais e Dumps
 - [x] **22.3** Transformando ideias em um modelo de banco de dados - Parte 2
-- [x] **22.4** Projeto: One For All - <a href="">Código</a>
+- [x] **22.4** Projeto: One For All - <a href="https://github.com/samantabelow/-Trybe-Projeto-One-For-All">Código</a>
 
 ### Block 23: Introduction to MongoDB
 
 - [x] **23.1** Introdução - NoSQL
 - [x] **23.2** Introdução - MongoDB
 - [x] **23.3** Filter Operators
-- [x] **23.4** Projeto: Data Flights - <a href="">Código</a>
+- [x] **23.4** Projeto: Data Flights - <a href="https://github.com/samantabelow/-Trybe-Projeto-Data-Flights">Código</a>
 
 ### Block 24: MongoDB: Simple and Complex Updates
 
 - [x] **24.1** Updates Simples
 - [x] **24.2** Updates Complexos - Arrays - Parte 1
 - [x] **24.3** Updates Complexos - Arrays - Parte 2
-- [x] **24.4** Projeto: Commerce - <a href="">Código</a>
+- [x] **24.4** Projeto: Commerce - <a href="https://github.com/samantabelow/-Trybe-Projeto-Commerce">Código</a>
 
 ### Block 25: Aggregation Framework
 
 - [x] **25.1** Aggregation Framework - Part 1
-- [ ] **25.2** Aggregation Framework - Part 2
-- [ ] **25.3** Projeto: Aggregations
+- [x] **25.2** Aggregation Framework - Part 2
+- [x] **25.3** Projeto: Aggregations - <a href="https://github.com/samantabelow/-Trybe-Projeto-Aggregations">Código</a>
 
 ### Block 26: Introduction to web development using NodeJS
 
