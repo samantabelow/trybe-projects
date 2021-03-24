@@ -5,7 +5,7 @@ This repository contains all the learning projects developed by <a href="https:/
 The course takes over 1500 hours and includes introduction to software development, front-end, backend, computer science and agile methodology.
 
 ## Fundamentals of Web Development 
-</div>
+
 
 ### Block 1: Unix, Bash and Shell Script
 
