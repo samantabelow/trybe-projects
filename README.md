@@ -2,7 +2,7 @@
 
 This repository contains all the learning projects developed by <a href="https://github.com/samantabelow">Samanta Below</a> while studying at <a href="https://www.betrybe.com/">Trybe</a>.
 
-The course takes over 1500 hours and includes introduction to software development, front-end, backend, computer science, software engineering and agile methodology.
+The course takes over 1500 hours and includes introduction to software development, front-end, backend, computer science and agile methodology.
 
 ## Fundamentals of Web Development 
 </div>
