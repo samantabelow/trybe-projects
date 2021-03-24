@@ -4,9 +4,7 @@ This repository contains all the learning projects developed by <a href="https:/
 
 The course takes over 1500 hours and includes introduction to software development, front-end, backend, computer science and agile methodology.
 
-<div align="center">
-  ## Fundamentals of Web Development 
-</div>
+## Fundamentals of Web Development 
 
 ### Block 1: Unix, Bash and Shell Script
 
@@ -83,9 +81,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **10.3** Jest - Simulando Comportamentos
 - [x] **10.4** Projeto: Jest Assíncrono e Mocking - <a href="https://github.com/samantabelow/-Trybe-Projeto-Jest">Código</a>
 
-<div align="center">
-  ## Front-end Development
-</div>
+## Front-end Development
 
 ### [Block 11: Introduction to React]
 
@@ -141,9 +137,7 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [x] **19-1** Projeto: App de Receitas - <a href="https://github.com/samantabelow/-Trybe-Projeto-App-de-Receitas">Código</a>
 
-<div align="center">
-  ## Back-end Development
-</div>
+## Back-end Development
 
 ### Block 20: Introduction to SQL
 
@@ -238,9 +232,7 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [ ] **33.1** Projeto: Trybeer V2
 
-<div align="center">
-  ## Computer Science
-</div>
+## Computer Science
 
 ### Block 34: Computer Architecture
 
