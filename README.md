@@ -123,7 +123,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **16.3** Usando o React no Redux - Prática
 - [x] **16.4** Usando o React no Redux - Actions Assíncronas
 - [x] **16.5** Testes em React-Redux
-- [x] **16.6** Projeto: Trybe Wallet - <a href="">Código</a>
+- [x] **16.6** Projeto: Trybe Wallet - <a href="https://github.com/samantabelow/-Trybe-Projeto-Trybe-Wallet">Código</a>
 
 ### Block 17: React Project
 
