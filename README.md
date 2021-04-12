@@ -183,18 +183,18 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 26: Introduction to web development using NodeJS
 
-- [ ] **26.1** Introdução - NodeJS
-- [ ] **26.2** NodeJS - Fluxo Assíncrono
-- [ ] **26.3** NodeJS - Arquitetura
-- [ ] **26.4** Express HTTP com Node.js
-- [ ] **26.5** Práticando Express
-- [ ] **26.6** Projeto: Crush Manager
+- [x] **26.1** Introdução - NodeJS
+- [x] **26.2** NodeJS - Fluxo Assíncrono
+- [x] **26.3** NodeJS - Arquitetura
+- [x] **26.4** Express HTTP com Node.js
+- [x] **26.5** Práticando Express
+- [x] **26.6** Projeto: Crush Manager <a href="https://github.com/samantabelow/Trybe-Projeto-Crush-Manager">Código</a>
 
 ### Block 27: NodeJS
 
-- [ ] **27.1** Arquitetura de Software: Camada de Model
-- [ ] **27.2** Arquitetura de Software - Camada de Controller e Service
-- [ ] **27.3** Arquitetura web - Rest e Restful
+- [x] **27.1** Arquitetura de Software: Camada de Model
+- [x] **27.2** Arquitetura de Software - Camada de Controller e Service
+- [x] **27.3** Arquitetura web - Rest e Restful
 - [ ] **27.4** Projeto: Store Manager
 
 ### Block 28: Authentication and File Upload
