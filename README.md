@@ -195,7 +195,7 @@ The course takes over 1500 hours and includes introduction to software developme
 - [x] **27.1** Arquitetura de Software: Camada de Model
 - [x] **27.2** Arquitetura de Software - Camada de Controller e Service
 - [x] **27.3** Arquitetura web - Rest e Restful
-- [ ] **27.4** Projeto: Store Manager
+- [x] **27.4** Projeto: Store Manager - <a href="https://github.com/samantabelow/Trybe-Projeto-Store-Manager">Código</a>
 
 ### Block 28: Authentication and File Upload
 
