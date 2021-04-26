@@ -201,7 +201,7 @@ The course takes over 1500 hours and includes introduction to software developme
 
 - [x] **28.1** NodeJS - JWT - (JSON Web Token)
 - [x] **28.2** NodeJS - Upload de arquivos com Multer
-- [x] **28.3** Projeto: Cookmaster - <a href="https://github.com/samantabelow/Trybe-Projeto-Cookmaster>Código</a>
+- [x] **28.3** Projeto: Cookmaster - <a href="https://github.com/samantabelow/Trybe-Projeto-Cookmaster">Código</a>
 
 ### Block 29: Deployment
 
