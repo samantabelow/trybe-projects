@@ -206,12 +206,12 @@ The course takes over 1500 hours and includes introduction to software developme
 ### Block 29: Deployment
 
 - [x] **29.1** Infraestrutura - Deploy com Heroku
-- [ ] **29.2** Deploy - Gerenciadores de Processos
-- [ ] **29.3** Projeto: Stranger Things
+- [x] **29.2** Deploy - Gerenciadores de Processos
+- [x] **29.3** Projeto: Stranger Things
 
 ### Block 30: Trybeer
 
-- [ ] **30.1** Projeto: Trybeer
+- [x] **30.1** Projeto: Trybeer - <a href="https://github.com/samantabelow/Trybe-Projeto-Trybeer">Código</a>
 
 ### Block 31: Arquitecture: SOLID and ORM
 
