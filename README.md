@@ -215,68 +215,68 @@ The course takes over 1500 hours and includes introduction to software developme
 
 ### Block 31: Arquitecture: SOLID and ORM
 
-- [ ] **31.1** Arquitetura - Princípios SOLID
-- [ ] **31.2** ORM - Interface da aplicação com o banco de dados
-- [ ] **31.3** ORM - Associations
-- [ ] **31.4** Boas práticas na escrita de testes
-- [ ] **31.5** Projeto: API de Blogs
+- [x] **31.1** Arquitetura - Princípios SOLID
+- [x] **31.2** ORM - Interface da aplicação com o banco de dados
+- [x] **31.3** ORM - Associations
+- [x] **31.4** Boas práticas na escrita de testes
+- [x] **31.5** Projeto: API de Blogs
 
 ### Block 32: Sockets
 
-- [ ] **32.1** Sockets - TCP/UDP & NET
-- [ ] **32.2** Sockets - Socket.io
-- [ ] **32.3** Arquitetura de Software - Camada de View
-- [ ] **32.4** Projeto: Webchat
+- [x] **32.1** Sockets - TCP/UDP & NET
+- [x] **32.2** Sockets - Socket.io
+- [x] **32.3** Arquitetura de Software - Camada de View
+- [x] **32.4** Projeto: Webchat
 
 ### Block 33: Trybeer V2
 
-- [ ] **33.1** Projeto: Trybeer V2
+- [x] **33.1** Projeto: Trybeer V2
 
 ## Computer Science
 
 ### Block 34: Computer Architecture
 
-- [ ] **34.1** Arquitetura de Computadores
-- [ ] **34.2** Arquitetura de redes
-- [ ] **34.3** Redes de computadores, ferramentas e segurança
-- [ ] **34.4** Projeto: Explorando os protocolos
+- [x] **34.1** Arquitetura de Computadores
+- [x] **34.2** Arquitetura de redes
+- [x] **34.3** Redes de computadores, ferramentas e segurança
+- [x] **34.4** Projeto: Explorando os protocolos
 
 ### Block 35: Introduction to Python
 
-- [ ] **35.1** Aprendendo Python
-- [ ] **35.2** Entrada e Saída de dados
-- [ ] **35.3** Raspagem de dados
-- [ ] **35.4** Testes
-- [ ] **35.5** Projeto: Tech news
+- [x] **35.1** Aprendendo Python
+- [x] **35.2** Entrada e Saída de dados
+- [x] **35.3** Raspagem de dados
+- [x] **35.4** Testes
+- [x] **35.5** Projeto: Tech news
 
 ### Block 36: Object Oriented Programming
 
-- [ ] **36.1** Introdução à programação orientada a objetos
-- [ ] **36.2** Programação orientada a objetos na prática
-- [ ] **36.3** Padrões de projeto
-- [ ] **36.4** Projeto: Relatórios de Estoque
+- [x] **36.1** Introdução à programação orientada a objetos
+- [x] **36.2** Programação orientada a objetos na prática
+- [x] **36.3** Padrões de projeto
+- [x] **36.4** Projeto: Relatórios de Estoque
 
 ### Block 37: Algorithms and Data Structure
 
-- [ ] **37.1** Estrutura de dados I - Arrays
-- [ ] **37.2** Estrutura de dados I - Complexidade de Algoritmos
-- [ ] **37.3** Recursividade e Estratégias para solução de problemas
-- [ ] **37.4** Algoritmos de ordenação e busca
-- [ ] **37.5** Projeto: Algoritmos
+- [x] **37.1** Estrutura de dados I - Arrays
+- [x] **37.2** Estrutura de dados I - Complexidade de Algoritmos
+- [x] **37.3** Recursividade e Estratégias para solução de problemas
+- [x] **37.4** Algoritmos de ordenação e busca
+- [x] **37.5** Projeto: Algoritmos
 
 ### Block 38: Data Structure: Hash and Set
 
-- [ ] **38.1** Estrutura de dados II - Hash maps & Dict
-- [ ] **38.2** Estrutura de dados II - Set
-- [ ] **38.3** Projeto: Restaurant Orders
+- [x] **38.1** Estrutura de dados II - Hash maps & Dict
+- [x] **38.2** Estrutura de dados II - Set
+- [x] **38.3** Projeto: Restaurant Orders
 
 ### Block 39: Data Structure: Piles, Queues and Lists
 
-- [ ] **39.1** Estruturas de dados III - Pilhas
-- [ ] **39.2** Estruturas de dados III - Deque
-- [ ] **39.3** Estruturas de dados III - Nó & Linhas
-- [ ] **39.4** Listas Duplamente Ligadas
-- [ ] **39.5** Projeto: TING - Trybe Is Not Google
+- [x] **39.1** Estruturas de dados III - Pilhas
+- [x] **39.2** Estruturas de dados III - Deque
+- [x] **39.3** Estruturas de dados III - Nó & Linhas
+- [x] **39.4** Listas Duplamente Ligadas
+- [x] **39.5** Projeto: TING - Trybe Is Not Google
 
 --------------------------------------------------------------------------------
 <div align="center">
